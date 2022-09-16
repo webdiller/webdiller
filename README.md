@@ -2,4 +2,30 @@
 
 - 🔭 I am currently working as a self-employed **JAM Stack**
 - 🌱 I’m currently learning <ins>graphql</ins>, <ins>headless wordpress</ins>, <ins>strapi v4</ins>, <ins>dart</ins>, <ins>flutter</ins>
-- 📫 Reach me at **https://telegram.me/webdillerru**
+- 📫 Reach me at:
+  - [Telegram](https://telegram.me/webdillerru)
+  - [Gmail](eugenefromrus@gmail.com)
+  - [Habr freelance](https://freelance.habr.com/freelancers/evgeniy-butkov)
+  - [hh.ru](https://nakhodka.hh.ru/resume/b2547bcfff06bee4f50039ed1f694745713276)
+  - [kwork.ru](https://kwork.ru/user/webdillerru)
+- 💪 Skils: 
+  - HTML, pug, jinja2
+  - figma
+  - CSS / SCSS / SASS
+  - Gulp / Gulp + Webpack
+  - BEM naming
+  - Javascript
+  - React.js
+  - Next.js
+  - Nginx
+  - Node.js 
+  - Sequelize ORM
+  - Prisma ORM
+  - Express.js
+  - Wordpress
+  - Wordpress headless
+  - Bpium
+  - Airtable
+  - Rowdb
+  - NocoDB
+  - Puppeteer 
