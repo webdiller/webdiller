@@ -10,6 +10,7 @@
   - BEM naming
   - Javascript
   - React.js
+  - Ionic 6 (React.js)
   - Next.js
   - Nginx
   - Node.js 
