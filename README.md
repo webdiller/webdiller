@@ -24,6 +24,7 @@
   - Rowdb
   - NocoDB
   - Puppeteer 
+  - Turborepo
 - 📫 Reach me at:
   - [Telegram](https://telegram.me/webdillerru)
   - [Gmail](eugenefromrus@gmail.com)
