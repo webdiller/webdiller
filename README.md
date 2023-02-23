@@ -14,17 +14,15 @@
   - Next.js
   - Nginx
   - Node.js 
-  - Sequelize ORM
   - Prisma ORM
   - Express.js
-  - Wordpress
   - Wordpress headless
   - Bpium
   - Airtable
   - Rowdb
+  - Hygraph
   - NocoDB
   - Puppeteer 
-  - Turborepo
 - 📫 Reach me at:
   - [Telegram](https://telegram.me/webdillerru)
   - [Gmail](eugenefromrus@gmail.com)
