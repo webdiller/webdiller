@@ -1,28 +1,24 @@
 ### Hi 👋, I'm Eugene
 
 - 🔭 I am currently working as a self-employed **JAM Stack**
-- 🌱 I’m currently learning <ins>ionic 6 for building mobile apps</ins>
+- 🌱 I’m currently learning <ins>ionic 7 for building cross platform apps</ins>
 - 💪 Skils: 
-  - HTML, pug, jinja2
   - figma
-  - CSS / SCSS / SASS
+  - HTML, pug, jinja2
+  - CSS / SCSS / SASS / Tailwind / BEM naming
   - Gulp / Gulp + Webpack
-  - BEM naming
-  - Javascript
-  - React.js
-  - Ionic 6 (React.js)
-  - Next.js
-  - Nginx
-  - Node.js 
+  - Javascript / Typescript
+  - React.js / Next.js
+  - Capacitor / Ionic Framework (crossplatform development)
+  - Node.js / Express.js / Fastify.js / Puppeteer.js
   - Prisma ORM
-  - Express.js
+  - Nginx
   - Wordpress headless
   - Bpium
   - Airtable
   - Rowdb
   - Hygraph
   - NocoDB
-  - Puppeteer 
 - 📫 Reach me at:
   - [Telegram](https://telegram.me/webdillerru)
   - [Gmail](eugenefromrus@gmail.com)
