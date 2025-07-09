@@ -8,7 +8,7 @@
 - 🧰 My current tech stack:
   - Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Shadcn, Origin UI
   - Web scraping: Puppeteer.js
-  - Backend: Node.js, Fastify.js, REST API
+  - Backend: Node.js, Fastify.js
   - Telegram development: Telegram Mini Apps (React.js or any client framework), Telegram Bot (grammy.js)
   - Headless CMS: Tina, Hygraph, WordPress API
   - Infrastructure: Vercel, Netlify, VPS, Docker
