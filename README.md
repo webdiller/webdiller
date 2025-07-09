@@ -1,4 +1,4 @@
-### Full-stack JavaScript/TypeScript 🌐 web developer
+### Full-stack JavaScript / TypeScript 🌐 web developer
 - 📫 Reach me at:
   - [Telegram](https://telegram.me/webdillerru)
   - [Gmail](eugenefromrus@gmail.com)
