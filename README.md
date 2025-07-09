@@ -5,3 +5,11 @@
   - [Habr freelance](https://freelance.habr.com/freelancers/evgeniy-butkov)
   - [hh.ru](https://nakhodka.hh.ru/resume/b2547bcfff06bee4f50039ed1f694745713276)
   - [kwork.ru](https://kwork.ru/user/webdillerru)
+- 🧰 My current tech stack:
+  - Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Shadcn, Origin UI
+  - Web scraping: Puppeteer.js
+  - Backend: Node.js, Fastify.js, REST API
+  - Telegram development: Telegram Mini Apps (React.js or any client framework), Telegram Bot (grammy.js)
+  - Headless CMS: Tina, Hygraph, WordPress API
+  - Infrastructure: Vercel, Netlify, VPS, Docker
+  - System analytics: Pandoc, Mermaid
