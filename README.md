@@ -1,5 +1,6 @@
 ### Full-stack JavaScript / TypeScript 🌐 web developer
 - 📫 Reach me at:
+  - [Web](http://iamweb.ru)
   - [Telegram](https://telegram.me/webdillerru)
   - [Gmail](eugenefromrus@gmail.com)
   - [Habr freelance](https://freelance.habr.com/freelancers/evgeniy-butkov)
